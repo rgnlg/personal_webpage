@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Olga Iarygina</title>
+    <link>https://hugo-profile.netlify.app/blogs/</link>
+    <description>Recent content in Blogs on Olga Iarygina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hugo-profile.netlify.app/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://hugo-profile.netlify.app/blogs/emoji-support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/blogs/emoji-support/</guid>
+      <description># &amp;mdash; author: Gurusabarish date: &amp;ldquo;2021-04-03T22:53:58+05:30&amp;rdquo; description: &amp;quot;&amp;quot; draft: false github_link: https://github.com/gurusabarish/hugo-profile image: /images/post.jpg tags: - Emoji support - Sample - example title: Emoji Support toc: null &amp;mdash; Emoji can be enabled in a Hugo project in a number of ways. :zap: ## Emoji Support The emojify function can be called directly in templates or Inline Shortcodes. To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hugo-profile.netlify.app/blogs/markdown-syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/blogs/markdown-syntax/</guid>
+      <description>&amp;mdash; author: Gurusabarish date: &amp;ldquo;2021-04-03T23:29:21+05:30&amp;rdquo; description: &amp;quot;&amp;quot; draft: false github_link: https://github.com/gurusabarish/hugo-profile image: /images/post.jpg tags: - Markdown syntax - Sample - example title: Markdown Syntax toc: null &amp;mdash; This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme. ## Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hugo-profile.netlify.app/blogs/placeholder-text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/blogs/placeholder-text/</guid>
+      <description>&amp;mdash; author: Gurusabarish date: &amp;ldquo;2021-04-03T22:41:10+05:30&amp;rdquo; description: &amp;quot;&amp;quot; draft: false github_link: https://github.com/gurusabarish/hugo-profile image: /images/post.jpg tags: - Placeholder text - Sample - example title: Placeholder Text toc: null &amp;mdash; Lorem est tota propiore conpellat pectoribus de pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hugo-profile.netlify.app/blogs/rich-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/blogs/rich-content/</guid>
+      <description>&amp;mdash; author: Gurusabarish date: &amp;ldquo;2021-04-03T19:53:33+05:30&amp;rdquo; description: &amp;quot;&amp;quot; draft: false image: /images/post.jpg tags: - Rich content - Sample - example title: Rich Content toc: null &amp;mdash; Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds. ## Gist Simple Shortcode ``` {{&amp;lt; gist spf13 7896402 &amp;ldquo;img.html&amp;rdquo; &amp;gt;}} ``` ## Twitter Simple Shortcode ``` {{&amp;lt; tweet GoHugoIO 1315233626070503424 &amp;gt;}} ``` Profile is a customizable single-page portfolio theme for Hugo featuring a contact form and blog.</description>
+    </item>
+    
+  </channel>
+</rss>
